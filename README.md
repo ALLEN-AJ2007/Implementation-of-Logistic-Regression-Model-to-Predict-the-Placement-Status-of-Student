@@ -8,16 +8,16 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1.Import necessary libraries
-2.Load the Placement_Data.csv dataset
-3.Copy the dataset and preprocess
+1.Import necessary libraries\n
+2.Load the Placement_Data.csv dataset\n
+3.Copy the dataset and preprocess\n
 4.Check for missing and duplicate values
-5.Convert categorical variables to numerical values
-6.Split dataset into features and target variable
-7.Split the dataset into training and testing sets
-8.Train the logistic regression model
-9.Predict the output on test data
-10.Evaluate the model
+\n5.Convert categorical variables to numerical values\n
+6.Split dataset into features and target variable\n
+7.Split the dataset into training and testing sets\n
+8.Train the logistic regression model\n
+9.Predict the output on test data\n
+10.Evaluate the model\n
 Program:
 
 ## Program:
