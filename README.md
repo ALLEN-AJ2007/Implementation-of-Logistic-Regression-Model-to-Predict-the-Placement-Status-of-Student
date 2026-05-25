@@ -12,7 +12,7 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2.Load the Placement_Data.csv dataset<br>
 3.Copy the dataset and preprocess<br>
 4.Check for missing and duplicate values<br>
-<br>5.Convert categorical variables to numerical values<br>
+5.Convert categorical variables to numerical values<br>
 6.Split dataset into features and target variable<br>
 7.Split the dataset into training and testing sets<br>
 8.Train the logistic regression model<br>
